@@ -1,0 +1,8 @@
+MIDlet-Version: 1.0
+MIDlet-Vendor: SenMobile
+MIDlet-Jar-URL: CalculerAuCE1_BB.jar
+MicroEdition-Configuration: CLDC-1.1
+Nokia-MIDlet-App-Orientation: portrait
+MIDlet-1: CalculerAuCE1,calcul.png,CalculerAuCE1
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Name: CalculerAuCE1_bb
